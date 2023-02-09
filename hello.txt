@@ -2,5 +2,7 @@
 void main()
 {
 print("Hello...!");
+print("Good Morning");
+print("How are you");
 return 0;
 }
